@@ -107,23 +107,14 @@ git clone https://github.com/rhijjawi/yeelight-internet-speedtester.git
 ```sh
 pip install -r requirements.txt
 ```
-3. Modify IP address in python file for your Yeelights
+3. Modify IP address in python file for your Yeelight's addresses
 
 
 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-See the [open issues](https://github.com/rhijjawi/yeelight-internet-speedtester/issues) for a list of proposed features (and known issues).
+Bulbs can be set to change to any color depending on the internet speed and what your expectations are.
 
 
 
@@ -148,22 +139,13 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 
 <!-- CONTACT -->
-## Contact
-
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - ramzihijjawi@gmail.com
-
+## Project Link
 Project Link: [https://github.com/rhijjawi/yeelight-internet-speedtester](https://github.com/rhijjawi/yeelight-internet-speedtester)
 
 
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
-
-* []()
-* []()
-* []()
-
-
 
 
 
