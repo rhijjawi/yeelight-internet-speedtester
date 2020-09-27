@@ -157,4 +157,4 @@ Project Link: [https://github.com/rhijjawi/yeelight-internet-speedtester](https:
 [license-url]: https://github.com/rhijjawi/yeelight-internet-speedtester/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/rhijjawi
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: code%20screenshot.jpg
