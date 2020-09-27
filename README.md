@@ -78,9 +78,9 @@
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 ### Built With
-* [Python]
-* [python-yeelight]()
-* [speedtest-cli]()
+* [Python](https://python.org)
+* [python-yeelight](https://yeelight.readthedocs.io/en/latest/)
+* [speedtest-cli](https://github.com/sivel/speedtest-cli)
 
 
 
