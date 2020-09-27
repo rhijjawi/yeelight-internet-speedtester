@@ -78,11 +78,6 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`rhijjawi`, `yeelight-internet-speedtester`, `twitter_handle`, `ramzihijjawi@gmail.com`
-
-
 ### Built With
 * [Python]
 * [python-yeelight]()
@@ -98,7 +93,8 @@ To get a local copy up and running follow these simple steps.
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
-* python
+* Python
+* Yeelight Bulbs
 
 
 ### Installation
@@ -111,6 +107,7 @@ git clone https://github.com/rhijjawi/yeelight-internet-speedtester.git
 ```sh
 pip install -r requirements.txt
 ```
+3. Modify IP address in python file for your Yeelights
 
 
 
