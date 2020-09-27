@@ -2,8 +2,8 @@ from yeelight import LightType
 from yeelight import Bulb
 import time
 import speedtest
-bulbleft = Bulb("192.168.1.11", effect="sudden", duration=1000, auto_on=True) #Bulb on the left side of the kitchen. This will be used for upload speeds
-bulbright = Bulb("192.168.1.24", effect="sudden", duration=1000, auto_on=True) #Bulb on the right side of the kitchen. This will be used for download speeds 
+bulbleft = Bulb("192.168.x.x", effect="sudden", duration=1000, auto_on=True) #Bulb on the left side of the kitchen. This will be used for upload speeds
+bulbright = Bulb("192.168.x.x", effect="sudden", duration=1000, auto_on=True) #Bulb on the right side of the kitchen. This will be used for download speeds 
 bulbright.effect = "sudden"
 bulbleft.effect = "sudden"
 servers = []
