@@ -35,7 +35,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/rhijjawi/yeelight-internet-speedtester">
-    <img src="download.png" alt="Logo" width="1920" height="1920">
+    <img src="download.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Yeelight Internet Speedtest Visualisation</h3>
