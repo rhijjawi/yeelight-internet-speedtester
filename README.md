@@ -110,9 +110,9 @@ npm install npm@latest -g
 ```sh
 git clone https://github.com/rhijjawi/yeelight-internet-speedtester.git
 ```
-2. Install NPM packages
+2. Install required Python libraries
 ```sh
-npm install
+pip install -r requirements.txt
 ```
 
 
