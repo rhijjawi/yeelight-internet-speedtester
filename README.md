@@ -90,19 +90,13 @@
 
 To get a local copy up and running follow these simple steps.
 
-### Prerequisites
+## Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* Python
 | Version | Supported          |
 | ------- | ------------------ |
-| 5.1.x   | :white_check_mark: |
-| 5.0.x   | :x:                |
-| 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
-* Yeelight Bulbs
-
-
+| Python 3 (Tested)| :white_check_mark: |
+| Yeelight Bulbs   | :white_check_mark: |
+| A lot of patience| :x: |
 ### Installation
 
 1. Clone the repo
