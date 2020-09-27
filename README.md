@@ -35,13 +35,12 @@
 <br />
 <p align="center">
   <a href="https://github.com/rhijjawi/yeelight-internet-speedtester">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">YOUR_TITLE</h3>
+  <h3 align="center">Yeelight Internet Speedtest Visualisation</h3>
 
   <p align="center">
-    YOUR_SHORT_DESCRIPTION
+    This project uses two simple Python libraries to test the internet speed, and then visualize them on two Xiaomi Yeelight bulbs.
     <br />
     <a href="https://github.com/rhijjawi/yeelight-internet-speedtester"><strong>Explore the docs »</strong></a>
     <br />
