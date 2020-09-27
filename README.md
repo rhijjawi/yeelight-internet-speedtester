@@ -123,9 +123,9 @@ Bulbs can be set to change to any color depending on the internet speed and what
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
 1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
+2. Create your Feature Branch
+3. Commit your Changes
+4. Push to the Branch
 5. Open a Pull Request
 
 
@@ -143,23 +143,18 @@ Project Link: [https://github.com/rhijjawi/yeelight-internet-speedtester](https:
 
 
 
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
-
-
-
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/rhijjawi/repo.svg?style=flat-square
-[contributors-url]: https://github.com/rhijjawi/repo/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/rhijjawi/repo.svg?style=flat-square
-[forks-url]: https://github.com/rhijjawi/repo/network/members
-[stars-shield]: https://img.shields.io/github/stars/rhijjawi/repo.svg?style=flat-square
-[stars-url]: https://github.com/rhijjawi/repo/stargazers
-[issues-shield]: https://img.shields.io/github/issues/rhijjawi/repo.svg?style=flat-square
-[issues-url]: https://github.com/rhijjawi/repo/issues
-[license-shield]: https://img.shields.io/github/license/rhijjawi/repo.svg?style=flat-square
-[license-url]: https://github.com/rhijjawi/repo/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/rhijjawi/yeelight-internet-speedtester.svg?style=flat-square
+[contributors-url]: https://github.com/rhijjawi/yeelight-internet-speedtester/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/rhijjawi/yeelight-internet-speedtester.svg?style=flat-square
+[forks-url]: https://github.com/rhijjawi/yeelight-internet-speedtester/network/members
+[stars-shield]: https://img.shields.io/github/stars/rhijjawi/yeelight-internet-speedtester.svg?style=flat-square
+[stars-url]: https://github.com/rhijjawi/yeelight-internet-speedtester/stargazers
+[issues-shield]: https://img.shields.io/github/issues/rhijjawi/yeelight-internet-speedtester.svg?style=flat-square
+[issues-url]: https://github.com/rhijjawi/yeelight-internet-speedtester/issues
+[license-shield]: https://img.shields.io/github/license/rhijjawi/yeelight-internet-speedtester.svg?style=flat-square
+[license-url]: https://github.com/rhijjawi/yeelight-internet-speedtester/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/rhijjawi
 [product-screenshot]: images/screenshot.png
